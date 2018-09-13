@@ -4,4 +4,4 @@
 
 ### Line 3
 
-My name is **Amelia Haque**
+My _name_ is **Amelia Haque**
