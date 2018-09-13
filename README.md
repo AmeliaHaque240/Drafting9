@@ -4,4 +4,4 @@
 
 ### Line 3
 
-My name is Amelia Haque
+My name is **Amelia Haque**
