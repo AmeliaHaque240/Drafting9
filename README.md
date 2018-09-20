@@ -2,7 +2,7 @@
 
 **Acronym** | **Long Form**
 ----------- | -------------
-ANSI        | [American National Standards Institute] (https://www.ansi.org/)
+ANSI        | [American National Standards Institute](https://www.ansi.org/)
 CAD         | _Computer Aided Design_
 CNC         | _Computer Numerical Control_
 
