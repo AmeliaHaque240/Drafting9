@@ -1,7 +1,8 @@
 # Drafting9
 
-## Line 2
+**Acronym** | **Long Form**
+----------- | -------------
+ANSI        | [American National Standards Institute] (https://www.ansi.org/)
+CAD         | _Computer Aided Design_
+CNC         | _Computer Numerical Control_
 
-### Line 3
-
-My _name_ is **Amelia Haque**
